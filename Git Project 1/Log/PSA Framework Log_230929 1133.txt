@@ -1,0 +1,9 @@
+﻿09/29/2023 11:33:13 >>>> Process Started.
+09/29/2023 11:33:14 >>>> Reading Config and killing all processes....
+09/29/2023 11:33:17>>>> Read Config successfully.
+09/29/2023 11:33:18 >>>> Initializing process...killing all processes first.
+09/29/2023 11:33:19 >> Killed processes successfully.
+09/29/2023 11:33:19 >>>> Successfully executed Process 1.
+09/29/2023 11:33:20 >>>> Successfully executed Process 2.
+09/29/2023 11:33:20 >>>> Process successfully executed.
+09/29/2023 11:33:20 >>>> Completed: Process successfully executed. Successful email sent.
